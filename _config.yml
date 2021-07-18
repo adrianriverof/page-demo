@@ -29,11 +29,11 @@
 # Build settings
 
 name: Page Demo
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 baseurl: /page-demo
 
-###markdown: kramdown
+###markdown: kramdown or GFM  -------important
 ###theme: minima
 ###plugins:
 ###  - jekyll-feed

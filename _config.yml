@@ -31,7 +31,7 @@
 name: Page Demo
 markdown: kramdown
 highlighter: rouge
-baseurl: /pages-themes
+baseurl: /pages-themes/
 
 ###markdown: kramdown or GFM  -------important
 ###theme: minima

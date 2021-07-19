@@ -34,7 +34,7 @@ highlighter: rouge
 baseurl: /page-demo/
 
 ###markdown: kramdown or GFM  -------important
-###theme: minima
+theme: minima
 ###plugins:
 ###  - jekyll-feed
 

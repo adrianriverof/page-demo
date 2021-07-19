@@ -30,7 +30,7 @@
 
 name: Page Demo
 markdown: kramdown
-pygments: rouge
+highlighter: rouge
 baseurl: /page-demo
 
 ###markdown: kramdown or GFM  -------important

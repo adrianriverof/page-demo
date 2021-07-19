@@ -31,7 +31,7 @@
 name: Page Demo
 markdown: kramdown
 highlighter: rouge
-baseurl: /pages-themes/
+baseurl: /page-demo/
 
 ###markdown: kramdown or GFM  -------important
 ###theme: minima
@@ -55,4 +55,4 @@ baseurl: /pages-themes/
 
 
 
-theme: jekyll-theme-hacker
+theme: hacker
